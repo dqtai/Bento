@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'memex',
 			icon: 'layout-template',
-			link: 'https://kormyen.github.io/memex/',
+			link: 'https://dqtai.github.io/memex1/',
 		},
 		{
 			id: '4',
